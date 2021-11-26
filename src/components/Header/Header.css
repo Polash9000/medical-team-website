@@ -1,0 +1,8 @@
+/* Text Color style */
+.text-color {
+    color: ;
+    background-color: rgba(244, 245, 177, 0.87);
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}

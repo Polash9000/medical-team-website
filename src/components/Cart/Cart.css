@@ -1,0 +1,9 @@
+/* Cart container style */
+.cart-container {
+    margin-left: 40px;
+}
+
+/* Total selected doctor style */
+.total-selected-doctor {
+    color: rgb(35, 255, 72);
+}

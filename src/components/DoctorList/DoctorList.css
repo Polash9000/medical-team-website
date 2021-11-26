@@ -1,0 +1,13 @@
+/* Doctor Card style */
+.doctor-card {
+    background-color: rgb(93, 58, 99);
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+/* Card Image style */
+.card-img {
+    width: 50%;
+    height: 250px;
+}

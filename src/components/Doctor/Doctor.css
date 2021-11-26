@@ -1,0 +1,12 @@
+/* Doctor container style */
+.doctor-container {
+    display: grid;
+    grid-template-columns: 3.5fr 1fr;
+}
+
+/* Doctor list style */
+.doctor-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+}
